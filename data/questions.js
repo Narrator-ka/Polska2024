@@ -48,7 +48,7 @@ const questions = [
     answers: [
       { text: 'Rozdaj darmowe maseczki i rękawiczki na ulicach.', points: { finanse: -2, popularnosc: 3, obrona: 0, dyplomacja: 2 } },
       { text: 'Rzuć całą służbę zdrowia na aferę koszatniczek. Pacjenci z rakiem niech czekają.', points: { finanse: 0, popularnosc: -6, obrona: 0, dyplomacja: -3 } },
-      { text: 'Zamknuj lasy.', points: { finanse: 0, popularnosc: -5, obrona: 2, dyplomacja: 0 } },
+      { text: 'Zamknij lasy.', points: { finanse: 0, popularnosc: -5, obrona: 2, dyplomacja: 0 } },
       { text: 'Opracuj szczepionkę i zrób dobry marketing.', points: { finanse: 5, popularnosc: 1, obrona: 0, dyplomacja: +3 } },
 
     ],
@@ -484,7 +484,7 @@ const questions = [
       answers: [
         { text: 'Podnieś 800+ do 1000+.', points: { finanse: -10, popularnosc: +5, obrona: 0, dyplomacja: 0 } },
         { text: 'Znieczulenie do porodu dla każdego!', points: { finanse: -5, popularnosc: +7, obrona: 0, dyplomacja: 0 } },
-        { text: 'Sfinansuj kampanię społeczną o szkodliwości dwania w szyję.', points: { finanse: -5, popularnosc: -5, obrona: 0, dyplomacja: 0 } },
+        { text: 'Sfinansuj kampanię społeczną o szkodliwości dawania w szyję.', points: { finanse: -5, popularnosc: -5, obrona: 0, dyplomacja: 0 } },
         { text: 'Zdelegalizuj antykoncepcję.', points: { finanse: -5, popularnosc: -10, obrona: -5, dyplomacja: -5 } },
       ],
       image: require('../assets/images/question48.jpg'),
